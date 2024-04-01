@@ -1,6 +1,10 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=25&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></p>
 
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wosmos&show_icons=true&locale=en&card_width=480&rank_icon=github&bg_color=151920&ring_color=0097B2&border_color=0097B2&icon_color=006F83&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" />
+
 <!--
 **Wosmos/Wosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
