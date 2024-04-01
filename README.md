@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=25&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></p>
+
 
 <!--
 **Wosmos/Wosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
