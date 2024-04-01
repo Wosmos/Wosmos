@@ -1,4 +1,4 @@
-<h1align="left">Hello 👋 </h1>
+<h1 align="left">Hello 👋 </h1>
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=35&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></p>
 
 
