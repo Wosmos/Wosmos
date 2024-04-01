@@ -44,8 +44,8 @@
 <img src="https://streak-stats.demolab.com?user=Wosmos&hide_border=false&border=0097B2&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" />
 
 
-<a href="https://github.com/Wosmos-dev">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos-dev&theme=react-dark" />
+<a href="https://github.com/Wosmos">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark" />
 </a>
 
 <!--
