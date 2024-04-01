@@ -26,7 +26,7 @@
 <h3 align="left">Tech Stack</h3>
 <p align="left">
     <h4 align="left">Web Development Tools</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,MongoDB,nextjs,appwrite&theme=darkperline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,MongoDB,nextjs,appwrite&theme=dark&perline=5" />
     <h4 align="left">Mobile Development Tools</h4>
 <img src="https://skillicons.dev/icons?i=reactnative,flutter,firebase,java&theme=darkperline=5" />
     <h4 align="left">Devops Tools</h4>
