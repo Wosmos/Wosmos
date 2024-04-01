@@ -26,13 +26,13 @@
 <h3 align="left">Tech Stack</h3>
 <p align="left">
     <h4 align="left">Web Development Tools</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,MongoDB,nextjs,appwrite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,MongoDB,nextjs,appwrite&theme=darkperline=5" />
     <h4 align="left">Mobile Development Tools</h4>
-<img src="https://skillicons.dev/icons?i=reactnative,flutter,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=reactnative,flutter,firebase,java&theme=darkperline=5" />
     <h4 align="left">Devops Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,bash,powershell,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=darkperline=5" />
     <h4 align="left">Design Tools</h4>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=darkperline=5" />
     
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
