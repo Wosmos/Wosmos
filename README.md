@@ -28,7 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<!--     <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs,nextjs,express,react,reactnative,flutter,java,python&theme=dark" />
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
 
