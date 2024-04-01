@@ -1,5 +1,5 @@
 ![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=35&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></h1>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=25&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></h1>
 
 
 
