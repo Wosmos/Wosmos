@@ -1,6 +1,9 @@
-<h1align="left">Salam Fellow Coders 👋 </h1>
+![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=35&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></p>
 
+<p align="left"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FWosmos"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWosmos&label=PROFILE%20VIEWS&labelColor=%23151920&countColor=%230097b2&labelStyle=upper" /></a></p>
+
+<h1 align="left">Salam Fellow Coders 👋 </h1>
 
 <h5 align="left">A passionate <b>3rd-year Software Engineering</b> student, I specialize in crafting visually appealing and user-friendly web applications using <b>React</b>, and <b>Next.js</b>, along with robust mobile apps through <b>React Native</b> and <b>Flutter</b>. Proficient in the <b>MERN</b> stack, I have a keen eye for clean code and innovative solutions. Driven by a desire to simplify lives through technology, I thrive on solving complex problems <em>elegantly</em>. Beyond coding, my interests lie in <em>creativity</em>, <em>fitness</em>, and exploring the cosmos. Let's connect to discuss how I can contribute my skills to your team's success.</h5>
 
