@@ -1,6 +1,6 @@
-<h1 align="left">Hello 👋 </h1>
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&height=35&lines=Hello%2C+There!;I'm+Muhammad+Wasif+Malik" alt="Typing SVG" /></p>
 
+<h1 align="left">Salam Fellow Coders 👋 </h1>
 
 <h5 align="left">A passionate <b>3rd-year Software Engineering</b> student, I specialize in crafting visually appealing and user-friendly web applications using <b>React</b>, and <b>Next.js</b>, along with robust mobile apps through <b>React Native</b> and <b>Flutter</b>. Proficient in the <b>MERN</b> stack, I have a keen eye for clean code and innovative solutions. Driven by a desire to simplify lives through technology, I thrive on solving complex problems <em>elegantly</em>. Beyond coding, my interests lie in <em>creativity</em>, <em>fitness</em>, and exploring the cosmos. Let's connect to discuss how I can contribute my skills to your team's success.</h5>
 
