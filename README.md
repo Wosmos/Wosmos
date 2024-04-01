@@ -28,12 +28,14 @@
 <!--     <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,nodejs,nextjs,express,react,reactnative,flutter,java,python&theme=dark" /> -->
     <h4 align="left">Web Development Tools</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,MongoDB&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,MongoDB,nextjs,appwrite&theme=dark" />
     <h4 align="left">Mobile Development Tools</h4>
 <img src="https://skillicons.dev/icons?i=reactnative,flutter,firebase&theme=dark" />
-    
     <h4 align="left">Devops Tools</h4>
-<!--     <img src="https://skillicons.dev/icons?i="figma,flutter,git,graphql,illustrator,java,nextjs,nodejs,photoshop,postgresql,python,reactnative&theme=dark" /> -->
+<img src="https://skillicons.dev/icons?i=git,bash&theme=dark" />
+    <h4 align="left">Design Tools</h4>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,spline&theme=dark" />
+    
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
 
