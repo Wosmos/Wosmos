@@ -26,28 +26,41 @@
 
 
 <h3 align="left">Tech Stack</h3>
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <h4 style="margin-bottom: 10px; text-align: left;">Web Development Tools</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,mongodb,nextjs,appwrite&theme=dark&perline=5" style="max-width: 100%; height: auto;">
+<table style="border: 2px solid #007bff; border-collapse: collapse;">
+  <tr style="padding: 10px;">
+    <td>
+      <h4 align="left">Web Development Tools</h4>
     </td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <h4 style="margin-bottom: 10px; text-align: left;">Mobile Development Tools</h4>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,java,kotlin&theme=dark&perline=5" style="max-width: 100%; height: auto;">
+    <td>
+      <h4 align="left">Mobile Development Tools</h4>
     </td>
   </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <h4 style="margin-bottom: 10px; text-align: left;">DevOps Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=dark&perline=5" style="max-width: 100%; height: auto;">
+  <tr style="padding: 10px;">
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,mongodb,nextjs,appwrite&theme=dark&perline=5" />
     </td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <h4 style="margin-bottom: 10px; text-align: left;">Design Tools</h4>
-      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark&perline=5" style="max-width: 100%; height: auto;">
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,java,kotlin&theme=dark&perline=5" />
+    </td>
+  </tr>
+  <tr style="padding: 10px;">
+    <td>
+      <h4 align="left">DevOps Tools</h4>
+    </td>
+    <td>
+      <h4 align="left">Design Tools</h4>
+    </td>
+  </tr>
+  <tr style="padding: 10px;">
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=dark&perline=5" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark&perline=5" />
     </td>
   </tr>
 </table>
+
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
