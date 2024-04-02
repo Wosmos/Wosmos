@@ -52,26 +52,30 @@
     </td>
   </tr>
   <tr style="padding: 10px;">
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=dark&perline=5" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark&perline=5" />
+    <td colspan="2">
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
     </td>
   </tr>
 </table>
 
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
-
 <h3 align="left">Profile Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Wosmos&show_icons=true&locale=en&card_width=480&rank_icon=github&bg_color=151920&ring_color=0097B2&border_color=0097B2&icon_color=006F83&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" />
-<img src="https://streak-stats.demolab.com?user=Wosmos&hide_border=false&border=0097B2&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" />
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Wosmos&show_icons=true&locale=en&card_width=480&rank_icon=github&bg_color=151920&ring_color=0097B2&border_color=0097B2&icon_color=006F83&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://streak-stats.demolab.com?user=Wosmos&hide_border=false&border=0097B2&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 10px;">
+      <a href="https://github.com/Wosmos">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-<a href="https://github.com/Wosmos">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark" />
-</a>
 
 
