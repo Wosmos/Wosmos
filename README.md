@@ -26,28 +26,29 @@
 
 
 <h3 align="left">Tech Stack</h3>
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
-      <h4 align="left">Web Development Tools</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,mongodb,nextjs,appwrite&theme=dark&perline=5" />
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      <h4 style="margin-bottom: 10px; text-align: left;">Web Development Tools</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,sass,react,redux,nodejs,express,mongodb,nextjs,appwrite&theme=dark&perline=5" style="max-width: 100%; height: auto;">
     </td>
-    <td>
-      <h4 align="left">Mobile Development Tools</h4>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,java,kotlin&theme=dark&perline=5" />
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      <h4 style="margin-bottom: 10px; text-align: left;">Mobile Development Tools</h4>
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,java,kotlin&theme=dark&perline=5" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
-    <td>
-      <h4 align="left">DevOps Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=dark&perline=5" />
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      <h4 style="margin-bottom: 10px; text-align: left;">DevOps Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=dark&perline=5" style="max-width: 100%; height: auto;">
     </td>
-    <td>
-      <h4 align="left">Design Tools</h4>
-      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark&perline=5" />
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      <h4 style="margin-bottom: 10px; text-align: left;">Design Tools</h4>
+      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark&perline=5" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
 
@@ -60,17 +61,4 @@
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark" />
 </a>
 
-<!--
-**Wosmos/Wosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
