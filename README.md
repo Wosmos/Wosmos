@@ -51,6 +51,14 @@
       <h4 align="left">Design Tools</h4>
     </td>
   </tr>
+    <tr style="padding: 10px;">
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,bash,powershell,azure,aws&theme=dark&perline=5" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark&perline=5" />
+    </td>
+  </tr>
   <tr style="padding: 10px;">
     <td colspan="2">
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wosmos&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="Wosmos" /></p>
