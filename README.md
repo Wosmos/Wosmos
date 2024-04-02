@@ -78,9 +78,12 @@
   </tr>
   <tr>
     <td colspan="2" style="padding: 10px;">
-      <a href="https://github.com/Wosmos">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark" />
-      </a>
+      <p align="center">
+            <a href="https://github.com/Wosmos">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wosmos&theme=radical"
+                    alt="Wosmos's GitHub Contribution" />
+            </a>
+        </p>
     </td>
   </tr>
 </table>
