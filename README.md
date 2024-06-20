@@ -1,11 +1,11 @@
 ![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
 
----
-
-### 👋 Hey there! I'm <b>Wasif</b>, You can call me <em>Wosmo</em>
 
 
-A 3rd-year Software Engineering student on a mission to create captivating digital experiences.
+#  Howdy! <b>Wasif</b> here, <br/> Just  call me <em>[Wosmo](https://wasiff.vercel.app/)</em>
+
+
+As a tech enthusiast on a mission, I thrive on turning ideas into intuitive digital experiences. 
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -17,6 +17,7 @@ A 3rd-year Software Engineering student on a mission to create captivating digit
 - **👨‍💻 Projects:** Explore my work on my [Portfolio](https://wasiff.vercel.app/)
 - **📫 Reach Me:** [m.wasifmalik17@gmail.com](mailto:m.wasifmalik17@gmail.com)
 - **⚡ Fun Fact:** Astronomy is my first love **💓**
+- **🤫 Secreat:** I rather love building stuff than coding mindlessly
 
     </td>
     <td valign="top" width="50%">
@@ -68,7 +69,7 @@ Wana connect? Let’s chat over a cup of <em>chai</em> or dive into thought-prov
 <table >
   <tr style="padding: 10px;">
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,express,mongodb,nextjs,flutter,git,bash,powershell,aws&theme=dark&perline=7&size=128" alt="tech stack" />
+      <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nodejs,express,mongodb,nextjs,flutter,git,powershell,aws&theme=dark&size=128" alt="tech stack" />
     </td>
   </tr>
  
