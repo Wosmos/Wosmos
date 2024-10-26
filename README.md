@@ -57,7 +57,7 @@ I'm always interested in collaborating on innovative projects or discussing tech
 
 ---
 
-<p align="center">Get to know me better by running:</p>
+<p align="left">Get to know me better by running:</p>
 
 ```bash
 npx wasif-malik
