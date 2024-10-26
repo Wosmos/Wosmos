@@ -55,6 +55,7 @@ Desktop.ini
 .history/
 
 # Lock files
+package.json
 package-lock.json
 yarn.lock
 .pnpm-lock.yaml
@@ -64,7 +65,6 @@ yarn.lock
 .github/workflows/
 
 
-.gitignore
-.index.js
-.package.json
-.package.lock.json
+gitignore
+
+
