@@ -65,6 +65,10 @@ yarn.lock
 .github/workflows/
 
 
-gitignore
 
 
+# Ignore the .gitignore file itself
+.gitignore
+
+# Ignore package.json
+package.json
