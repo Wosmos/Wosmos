@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+.next/
+coverage/
+temp/
+.tmp/
+.cache/
+
+# Dependency directories
+jspm_packages/
+.tern-port
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS/Linux files
+.AppleDouble
+.LSOverride
+
+# Windows file
+Desktop.ini
+
+# VS Code backups
+.history/
+
+# Lock files
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+
+# GitHub Actions
+# Ignore temporary files created by GitHub Actions workflows
+.github/workflows/
