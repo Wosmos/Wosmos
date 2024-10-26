@@ -27,11 +27,7 @@ const techStack = {
 
 ## 💼 Featured Projects
 
-Visit my [portfolio](https://wasiff.vercel.app/) to explore my work, including:
-
-- E-commerce platforms
-- Mobile applications
-- Web services & APIs
+Visit my [portfolio](https://wasiff.vercel.app/) to explore my work,
 
 ## 📊 GitHub Analytics
 
