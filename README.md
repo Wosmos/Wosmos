@@ -64,9 +64,15 @@ npx wasif-malik
 ```
 
 <div align="center">
-  <a href="https://wasiff.vercel.app">Portfolio</a> •
-  <a href="mailto:m.wasifmalik17@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/wasif-malik-79205a1bb/">LinkedIn</a>
+  <a href="https://github.com/Wosmos" style="margin-right: 10px;">
+    <img src="https://img.shields.io/github/followers/Wosmos?label=Follow%20Me&style=social" alt="Follow Me on GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/wasifmalik" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:m.wasifmalik17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail" alt="Contact Me via Email"/>
+  </a>
 </div>
 
 ---
