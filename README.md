@@ -52,13 +52,6 @@ const techStack = {
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wosmos&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
 
 
 
@@ -79,11 +72,6 @@ npx wasif-malik
 
 I'm always interested in collaborating on innovative projects and discussing technology. Feel free to reach out through any of the social links above!
 
-<div align="center">
-  
-[![@wosmos's Holopin board](https://holopin.me/wosmos)](https://holopin.io/@wosmos)
-
-</div>
 
 ---
 <div align="center">
